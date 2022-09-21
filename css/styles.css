@@ -1,14 +1,22 @@
-p {
+h1 {
+    color: blue;
+  }
+  h1 {
     color: blue;
     text-align: center;
-    font-family:sans-serif;
-   }
-
-   h2 {
+  }
+  h2 {
     color: green;
     font-style: italic;
     text-align: center;
-   ol{
+  }
+  p {
+    font-family: sans-serif;
+    
+  }
+  ul {
     line-height: 40px;
-
-   }
+  }
+  h1 {
+    color: #00f;
+  }
